@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
 <h3 align="center">Undergraduate Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifreda30&label=Profile%20views&color=0e75b6&style=flat" alt="seifreda30" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifreda30" alt="seifreda30" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@seif_reda10" target="blank"><img src="https://img.shields.io/twitter/follow/@seif_reda10?logo=twitter&style=for-the-badge" alt="@seif_reda10" /></a> </p>
