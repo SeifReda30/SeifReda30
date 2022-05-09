@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
-<h3 align="center">Undergraduate Student at The Faculty of Computers and Information Helwan University</h3>
+<h3 align="center">Undergraduate Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifreda30&label=Profile%20views&color=0e75b6&style=flat" alt="seifreda30" /> </p>
 
