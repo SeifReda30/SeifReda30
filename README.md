@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
-<h3 align="center">Undergraduate Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
+<h3 align="center">Senior Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifreda30" alt="seifreda30" /></a> </p>
 
