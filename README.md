@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@seif_reda10" target="blank"><img src="https://img.shields.io/twitter/follow/@seif_reda10?logo=twitter&style=for-the-badge" alt="@seif_reda10" /></a> </p>
 
-- 🔭 I’m currently working on **The Sparks Foundation Intern Tasks**
+- 🔭 I’m currently working on **Web Scraping Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Analysis**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
 - 💬 Ask me about **Programming Fundamentals & Data Analysis & Machine Learning**
 
