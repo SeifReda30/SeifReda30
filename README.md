@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifreda30" alt="seifreda30" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@seif_reda10" target="blank"><img src="https://img.shields.io/twitter/follow/@seif_reda10?logo=twitter&style=for-the-badge" alt="@seif_reda10" /></a> </p>
 
 - 🔭 I’m currently working on **Web Scraping Projects**
 
