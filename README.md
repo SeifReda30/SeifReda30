@@ -2,7 +2,7 @@
 <h3 align="center">Senior Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
 
 
-- 🔭 I’m currently working on **Web Scraping Projects**
+- 🔭 I’m currently working on **Data Analysis Projects**
 
 - 🌱 I’m currently learning **Data Analysis**
 
