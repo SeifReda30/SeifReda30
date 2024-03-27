@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
-<h3 align="center">Senior Student at The Faculty of Computers and Artificial Intelligence Helwan University</h3>
+<h3 align="center">Fresh Graduate from The Faculty of Computers and Artificial Intelligence Helwan University</h3>
 
 
 - 🔭 I’m currently working on **Data Analysis Projects**
