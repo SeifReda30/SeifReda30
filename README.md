@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
-<h3 align="center">Fresh Graduate from The Faculty of Computers and Artificial Intelligence Helwan University</h3>
+<h3 align="center">Python Developer @Misraj Technology</h3>
 
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working on **Python Backend & Scripting Projects**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Backend & Scripting Projects**
 
-- 💬 Ask me about **Programming Fundamentals & Data Analysis & Machine Learning**
+- 💬 Ask me about **Programming Fundamentals & Data Analysis & Backend**
 
 - 📫 How to reach me **seifreda82@gmail.com**
 
