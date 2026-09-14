@@ -1,32 +1,195 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
-<h3 align="center">Python Developer @Misraj Technology</h3>
 
+<h3 align="center">
+Data Engineer · Python Backend Developer · ETL & Automation Specialist
+</h3>
 
-- 🔭 I’m currently working on **Python Backend & Scripting Projects**
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 👯 I’m looking to collaborate on **Backend & Scripting Projects**
-
-- 💬 Ask me about **Programming Fundamentals & Data Analysis & Backend**
-
-- 📫 How to reach me **seifreda82@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@seif_reda10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@seif_reda10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seif-reda-158166203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif-reda-158166203" height="30" width="40" /></a>
-<a href="https://fb.com/seif.1030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seif.1030" height="30" width="40" /></a>
-<a href="https://instagram.com/seif_reda10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seif_reda10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/seifreda10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="seifreda10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/seifreda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seifreda" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/SeifReda30">
+    <img src="https://komarev.com/ghpvc/?username=SeifReda30&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/SeifReda30?tab=followers">
+    <img src="https://img.shields.io/github/followers/SeifReda30?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifreda30&show_icons=true&locale=en&layout=compact" alt="seifreda30" /></p>
+I'm a **Data Engineer and Python Backend Developer** from Egypt with **3+ years of professional experience** building production systems for data extraction, ETL, automation, APIs, and analytics.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifreda30&show_icons=true&locale=en" alt="seifreda30" /></p>
+My strongest work sits at the intersection of **Python + data engineering + backend systems + web/API automation**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifreda30&" alt="seifreda30" /></p>
+I build systems that collect data from difficult sources, transform and validate it, move it through reliable pipelines, store it efficiently, and expose it through production APIs or analytics layers.
+
+### What I work on
+
+- 🐍 **Python backend development** with FastAPI, Flask, async SQLAlchemy, asyncpg, Pydantic and REST APIs
+- 🔄 **ETL & data pipelines** with Python, Pandas, SQL and Apache Airflow
+- ☁️ **AWS data/backend systems** using ECS, Lambda, RDS, S3, EventBridge, CloudFront and ECR
+- 🕷️ **Web scraping & data extraction** with Selenium, Playwright and BeautifulSoup
+- 🔎 **API reverse engineering** including undocumented web/mobile APIs and application-level integrations
+- 🛡️ **Protected-source extraction** including anti-bot handling, CAPTCHA workflows, proxy rotation and TLS fingerprint handling
+- 🗄️ **PostgreSQL & Redis** for production storage, caching, queues, distributed locks and event processing
+- ✅ **Data quality & reliability** through validation, normalization, deduplication, testing and structured logging
+- 📊 **Analytics & BI** with Power BI, DAX, Excel, Pandas and NumPy
+- 🐳 **Deployment & engineering workflow** with Docker, Linux, Git and GitLab CI/CD
+
+## 🚀 Selected Work
+
+> Some of my strongest production systems were built for employers and freelance clients and therefore cannot be published as public repositories. The projects below summarize the type of engineering I do in production.
+
+### 🔹 Data Engineering & ETL
+
+- Built large-scale scraping and ETL systems that collect data from multiple public and protected sources.
+- Designed scheduled AWS pipelines using **ECS, EventBridge, Lambda and PostgreSQL/RDS**.
+- Built modular **Apache Airflow** ingestion pipelines with validation and checkpointing.
+- Implemented data **cleaning, normalization, deduplication and quality checks** before downstream use.
+- Developed multi-source ingestion systems for analytics, AI training datasets and business intelligence.
+
+### 🔹 Python Backend & APIs
+
+- Designed and deployed production **FastAPI** services with PostgreSQL and Redis.
+- Built REST APIs with **Swagger/OpenAPI**, authentication, rate limiting and secure data handling.
+- Used asynchronous Python with **async SQLAlchemy / asyncpg** for database-heavy applications.
+- Implemented event-driven backend workflows with Redis queues, distributed locks, deduplication, idempotency and dead-letter handling.
+
+### 🔹 Web Scraping & API Reverse Engineering
+
+- Built extraction systems using **Selenium, Playwright and BeautifulSoup**.
+- Reverse-engineered undocumented web and mobile APIs to access data unavailable through normal public interfaces.
+- Worked with dynamic websites, anti-bot mechanisms, CAPTCHA challenges, rotating proxies and TLS fingerprint constraints.
+- Built extraction workflows designed for reliability, reruns and cost control rather than one-off scraping.
+
+### 🔹 Analytics & AI Data
+
+- Built Power BI dashboards for dataset, contributor, user-behaviour and system-performance analytics.
+- Developed data collection infrastructure for multilingual AI/LLM training datasets.
+- Worked on computer-vision-assisted data extraction and CAPTCHA recognition when conventional OCR approaches were insufficient.
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL/SQLite" width="40" height="40"/>
+</p>
+
+**Python · SQL**
+
+### Backend & APIs
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+</p>
+
+**FastAPI · Flask · async SQLAlchemy · asyncpg · Pydantic · REST · Swagger/OpenAPI**
+
+### Data Engineering
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</p>
+
+**ETL/ELT · Apache Airflow · Pandas · NumPy · Data Validation · Normalization · Deduplication**
+
+### Web Scraping & Automation
+**Selenium · Playwright · BeautifulSoup · curl_cffi · HTTP/API integration · Browser automation · API reverse engineering · Anti-bot handling · CAPTCHA workflows · Proxy rotation**
+
+### Cloud & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="55" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+**AWS ECS · Lambda · RDS · S3 · EventBridge · CloudFront · ECR · Docker · Linux · Git · GitLab CI/CD**
+
+### Databases & Caching
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+**PostgreSQL · Redis · MySQL · SQLite · Schema Design · Query Optimization · Indexing**
+
+### Testing & Code Quality
+**pytest · Ruff · Black · Mypy · Structured Logging · Rate Limiting · Encryption**
+
+### Analytics & BI
+**Power BI · DAX · Excel · Matplotlib · Seaborn**
+
+### Machine Learning / Computer Vision
+**TensorFlow · Keras · PyTorch · scikit-learn · YOLOv8 · OpenCV · OCR · Object Detection**
+
+## 📌 Featured Public Repositories
+
+### 🕷️ Real-time Samsung Products & Prices Comparison
+Python/BeautifulSoup project that extracts product data from multiple Egyptian e-commerce websites and supports filtering, currency conversion and spreadsheet output.
+
+➡️ [View repository](https://github.com/SeifReda30/Real-time-Samsung-Products-and-Prices-Comparison)
+
+### 🔎 Amber Student Accommodation Web Scraping
+Python extraction project that retrieves apartment data in England through an undocumented/hidden API.
+
+➡️ [View repository](https://github.com/SeifReda30/Amber-Student-Accommodation-Web-Scraping)
+
+### 🗃️ LeetCode SQL Solutions
+A collection of SQL problems solved with explanations, covering practical SQL problem-solving patterns.
+
+➡️ [View repository](https://github.com/SeifReda30/LeetCode-SQL-Solutions)
+
+### 🤖 Face Recognition System
+Machine-learning course project using Python, image processing and classical ML models for celebrity face classification.
+
+➡️ [View repository](https://github.com/SeifReda30/FaceRecognitionSystem)
+
+## 💼 Professional Focus
+
+I'm especially interested in opportunities involving:
+
+**Data Engineering · Python Backend · ETL/ELT · Data Pipelines · API Engineering · Web Scraping · Data Extraction · Automation · Cloud Engineering · Analytics Engineering**
+
+I'm particularly interested in production environments where I can work on systems involving:
+
+**Python + SQL + ETL + AWS + PostgreSQL + Airflow**
+
+or
+
+**Python + FastAPI/Flask + PostgreSQL/Redis + REST APIs**
+
+or
+
+**Python + Selenium/Playwright + Web Scraping + API Integration + Automation**
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/seif-reda">
+    <img src="https://img.shields.io/badge/LinkedIn-Seif%20Reda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/seifeldeenr">
+    <img src="https://img.shields.io/badge/Upwork-Seif%20Eldeen-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <a href="mailto:seifreda82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-seifreda82%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeifReda30&show_icons=true&hide_border=true" alt="Seif's GitHub stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeifReda30&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable data systems, backend services, and automation with Python.</i>
+</p>
