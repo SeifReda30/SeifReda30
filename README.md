@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
 
-<h3 align="center">
-Data Engineer · Python Backend Developer · ETL & Automation Specialist
-</h3>
+<p align="center">
+  <img src="./assets/hero.gif" alt="Seif Reda - Data Engineer, Python Backend Developer, ETL and Automation Specialist" width="900">
+</p>
+
+<p align="center">
+  <b>Data Engineer · Python Backend Developer · ETL & Automation Specialist</b>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -12,65 +16,41 @@ My strongest areas are **Python, SQL, ETL/Airflow, AWS, PostgreSQL/Redis, FastAP
 
 ## 🚀 What I Build
 
-**Data Engineering:** large-scale extraction, ETL/ELT, Airflow orchestration, validation, normalization, deduplication, and analytics-ready data.
+**Data Engineering** — large-scale extraction, ETL/ELT, Airflow orchestration, validation, normalization, deduplication, and analytics-ready data.
 
-**Backend:** production FastAPI/Flask services, PostgreSQL/Redis, async Python, REST APIs, authentication, rate limiting, and event-driven workflows.
+**Backend** — production FastAPI/Flask services, PostgreSQL/Redis, async Python, REST APIs, authentication, rate limiting, and event-driven workflows.
 
-**Automation & Extraction:** Selenium/Playwright/BeautifulSoup, undocumented API integration, protected-source extraction, anti-bot/CAPTCHA workflows, and proxy/TLS handling.
+**Automation & Extraction** — Selenium/Playwright/BeautifulSoup, undocumented API integration, protected-source extraction, anti-bot/CAPTCHA workflows, and proxy/TLS handling.
 
-**Cloud & Analytics:** AWS-based scheduled pipelines, Docker/GitLab CI/CD, PostgreSQL data platforms, and Power BI/DAX reporting.
+**Cloud & Analytics** — AWS-based scheduled pipelines, Docker/GitLab CI/CD, PostgreSQL data platforms, and Power BI/DAX reporting.
 
 > Some production systems are private because they were built for employers and clients; the descriptions above summarize the engineering work without exposing proprietary code or data.
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
-### Languages
-
-**Python · SQL**
-
-### Backend & APIs
-
-**FastAPI · Flask · async SQLAlchemy · asyncpg · Pydantic · REST · Swagger/OpenAPI**
-
-### Data Engineering
+**Python · SQL · FastAPI · Flask · async SQLAlchemy · asyncpg · Pydantic · REST APIs · Swagger/OpenAPI**
 
 **ETL/ELT · Apache Airflow · Pandas · NumPy · Data Validation · Normalization · Deduplication**
 
-### Web Scraping & Automation
-**Selenium · Playwright · BeautifulSoup · curl_cffi · HTTP/API integration · Browser automation · API reverse engineering · Anti-bot handling · CAPTCHA workflows · Proxy rotation**
+**Selenium · Playwright · BeautifulSoup · curl_cffi · API Reverse Engineering · Browser Automation · Anti-Bot/CAPTCHA Handling**
 
-### Cloud & DevOps
-
-**AWS ECS · Lambda · RDS · S3 · EventBridge · CloudFront · ECR · Docker · Linux · Git · GitLab CI/CD**
-
-### Databases & Caching
+**AWS (ECS, Lambda, RDS, S3, EventBridge, CloudFront, ECR) · Docker · Linux · Git · GitLab CI/CD**
 
 **PostgreSQL · Redis · MySQL · SQLite · Schema Design · Query Optimization · Indexing**
 
-### Testing & Code Quality
 **pytest · Ruff · Black · Mypy · Structured Logging · Rate Limiting · Encryption**
 
-### Analytics & BI
-**Power BI · DAX · Excel · Matplotlib · Seaborn**
-
-### Machine Learning / Computer Vision
-**TensorFlow · Keras · PyTorch · scikit-learn · YOLOv8 · OpenCV · OCR · Object Detection**
+**Power BI · DAX · Excel · Matplotlib · Seaborn · TensorFlow · Keras · scikit-learn · OpenCV**
 
 ## 💼 Professional Focus
 
-I'm especially interested in opportunities involving:
-
 **Data Engineering · Python Backend · ETL/ELT · Data Pipelines · API Engineering · Web Scraping · Data Extraction · Automation · Cloud Engineering · Analytics Engineering**
 
-I'm particularly interested in production environments where I can work on systems involving:
+I'm especially interested in production environments built around:
 
 **Python + SQL + ETL + AWS + PostgreSQL + Airflow**
 
-or
-
 **Python + FastAPI/Flask + PostgreSQL/Redis + REST APIs**
-
-or
 
 **Python + Selenium/Playwright + Web Scraping + API Integration + Automation**
 
