@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif Reda</h1>
 
 <p align="center">
-  <img src="./assets/hero.gif" alt="Seif Reda - Data Engineer, Python Backend Developer, ETL and Automation Specialist" width="900">
+  <img src="./assets/hero.gif" alt="Seif Reda — Data Engineering, Python, ETL, APIs and Automation" width="100%">
 </p>
 
 <p align="center">
@@ -16,13 +16,10 @@ My strongest areas are **Python, SQL, ETL/Airflow, AWS, PostgreSQL/Redis, FastAP
 
 ## 🚀 What I Build
 
-**Data Engineering** — large-scale extraction, ETL/ELT, Airflow orchestration, validation, normalization, deduplication, and analytics-ready data.
-
-**Backend** — production FastAPI/Flask services, PostgreSQL/Redis, async Python, REST APIs, authentication, rate limiting, and event-driven workflows.
-
-**Automation & Extraction** — Selenium/Playwright/BeautifulSoup, undocumented API integration, protected-source extraction, anti-bot/CAPTCHA workflows, and proxy/TLS handling.
-
-**Cloud & Analytics** — AWS-based scheduled pipelines, Docker/GitLab CI/CD, PostgreSQL data platforms, and Power BI/DAX reporting.
+- **Data Engineering:** large-scale extraction, ETL/ELT, Airflow orchestration, validation, normalization, deduplication, and analytics-ready data.
+- **Backend:** FastAPI/Flask, PostgreSQL/Redis, async Python, REST APIs, authentication, rate limiting, and event-driven workflows.
+- **Automation & Extraction:** Selenium, Playwright, BeautifulSoup, undocumented API integration, anti-bot/CAPTCHA workflows, and proxy/TLS handling.
+- **Cloud & Analytics:** AWS pipelines, Docker, GitLab CI/CD, PostgreSQL data platforms, and Power BI/DAX reporting.
 
 > Some production systems are private because they were built for employers and clients; the descriptions above summarize the engineering work without exposing proprietary code or data.
 
